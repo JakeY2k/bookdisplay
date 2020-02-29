@@ -1,0 +1,73 @@
+header {
+
+background-image: url(../images/header_image.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height:200px
+color: navajowhite;
+border:1px solid blue;
+background-color: black;
+}
+
+ 
+
+#content {
+{font-style:normal; color:white;} 
+float: left;
+width: 80%;
+margin-right: 15px;
+border: 1px solid grey;
+    
+    {
+border: .5px solid yellow;
+width: 18.5%;
+float: right;
+        }
+    
+    
+color: blue;
+text-decoration: none;
+    
+    
+    }
+    
+{list-style-type: none;}
+div 
+
+
+.col_detail {
+column-count: 3;   
+column-rule: 1px solid lightblue;   
+column-gap: 40px;  
+padding:2px; 
+            
+
+         
+            
+            
+        }
+
+div
+footer {
+   
+clear:both;
+border: 1px solid orange;
+padding: 0;
+margin: 0;
+position: relative;
+bottom: 0px;
+width: 100%;
+background-color: gray;
+    
+text-align: center;
+    
+    
+    
+    
+    
+    
+}
+        
+}
+    
+}
